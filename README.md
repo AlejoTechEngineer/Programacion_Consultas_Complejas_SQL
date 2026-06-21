@@ -1,6 +1,13 @@
+<div align="center">
+
 # 📌 PROGRAMACIÓN DE CONSULTAS COMPLEJAS Y VISTAS EN SQL  
 
-## 📖 Descripción  
+## 📖 Descripción
+
+</div>
+
+---
+
 Este proyecto corresponde al desarrollo de diversas consultas SQL avanzadas, incluyendo la creación de tablas, inserción de datos y vistas.  
 
 ## 🚀 Características  
@@ -43,3 +50,12 @@ Para ejecutar este proyecto necesitas:
 1. Clona este repositorio:  
    ```bash
    git clone https://github.com/AxentDev/PROGRAMACION-DE-CONSULTAS-COMPLEJAS-Y-VISTAS-EN-SQL.git
+
+---
+
+## Autor
+
+**Alejandro De Mendoza**  
+Ingeniero Informático · Especialista en IA · Especialista en Ingeniería de Software · Máster en Arquitectura de Software
+
+[![GitHub](https://img.shields.io/badge/GitHub-AlejoTechEngineer-181717?style=for-the-badge&logo=github)](https://github.com/AlejoTechEngineer)
