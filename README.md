@@ -17,6 +17,20 @@ Este proyecto corresponde al desarrollo de diversas consultas SQL avanzadas, inc
 🔹 **Optimización de consultas**: Implementación de funciones agregadas para análisis de datos.  
 🔹 **Creación de vistas**: Simplificación del acceso a información clave.  
 
+## Arquitectura
+
+```mermaid
+flowchart TD
+    A[Programacion_Consultas_Complejas_SQL] --> B[Scripts SQL]
+    A --> C[Informe PDF]
+    B --> D[Creacion de Tablas - DDL]
+    B --> E[Insercion de Datos - DML]
+    B --> F[Consultas SELECT Avanzadas - INNER JOIN / LEFT JOIN / Subconsultas]
+    B --> G[Operaciones de Conjuntos - UNION / INTERSECT / EXCEPT]
+    B --> H[Funciones de Agregacion - SUM / AVG / COUNT / MAX / MIN]
+    B --> I[Vistas SQL - CREATE VIEW]
+```
+
 ## 📂 Desarrollo del Proyecto  
 Este proyecto abarcó las siguientes tareas en SQL:  
 
@@ -52,20 +66,6 @@ Para ejecutar este proyecto necesitas:
    git clone https://github.com/AxentDev/PROGRAMACION-DE-CONSULTAS-COMPLEJAS-Y-VISTAS-EN-SQL.git
 
 ---
-
-## Arquitectura
-
-```mermaid
-flowchart TD
-    A[Programacion_Consultas_Complejas_SQL] --> B[Scripts SQL]
-    A --> C[Informe PDF]
-    B --> D[Creacion de Tablas - DDL]
-    B --> E[Insercion de Datos - DML]
-    B --> F[Consultas SELECT Avanzadas - INNER JOIN / LEFT JOIN / Subconsultas]
-    B --> G[Operaciones de Conjuntos - UNION / INTERSECT / EXCEPT]
-    B --> H[Funciones de Agregacion - SUM / AVG / COUNT / MAX / MIN]
-    B --> I[Vistas SQL - CREATE VIEW]
-```
 
 ## Autor
 
