@@ -53,6 +53,20 @@ Para ejecutar este proyecto necesitas:
 
 ---
 
+## Arquitectura
+
+```mermaid
+flowchart TD
+    A[Programacion_Consultas_Complejas_SQL] --> B[Scripts SQL]
+    A --> C[Informe PDF]
+    B --> D[Creacion de Tablas - DDL]
+    B --> E[Insercion de Datos - DML]
+    B --> F[Consultas SELECT Avanzadas - INNER JOIN / LEFT JOIN / Subconsultas]
+    B --> G[Operaciones de Conjuntos - UNION / INTERSECT / EXCEPT]
+    B --> H[Funciones de Agregacion - SUM / AVG / COUNT / MAX / MIN]
+    B --> I[Vistas SQL - CREATE VIEW]
+```
+
 ## Autor
 
 **Alejandro De Mendoza**  
